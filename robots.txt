@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weikexiu.github.io/jinridujiahe/sitemap.xml
